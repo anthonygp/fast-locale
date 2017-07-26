@@ -1,8 +1,9 @@
+#!/usr/bin/env ruby
+
+
 # Fast locale is light weight localization converter.
 # Contact gp.anthony@gmail.com
 
-
-#!/usr/bin/env ruby
 require 'csv'
 require 'fileutils'
 require_relative 'xlsx_to_csv.rb'
